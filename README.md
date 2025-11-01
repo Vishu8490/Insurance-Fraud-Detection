@@ -3,20 +3,22 @@
 
 
 
- Project Overview
+# Project Overview
 
 This project aims to analyze and predict fraudulent insurance claims using IBM SPSS Modeler.
 The dataset insurance_claims.csv was processed, filtered, partitioned, and modeled to classify whether a claim is fraud-reported or not.
 
 
 
-Objective
+# Objective
 
 To build a data mining model that can accurately identify fraudulent auto insurance claims and help insurance companies reduce financial losses.
 
 
 
-Steps Performed
+# Steps Performed
+
+
 1️ Data Import
 
 Imported dataset: insurance_claims.csv
@@ -65,23 +67,33 @@ Model accuracy and performance metrics
 
 
 
-📁 Project Structure
+#  Project Structure
 📂 Auto_Insurance_Fraud
+
  ┣ 📜 insurance_claims.csv
+ 
  ┣ 📜 Auto_insurance.str  (SPSS Modeler Stream File)
+ 
  ┣ 📜 README.md
+
+
  ┗ 📸 screenshots/
+ 
      ┗ crtv.png
 
 
 
-Conclusion
+# Conclusion
 
-This project demonstrates the end-to-end fraud detection process using SPSS Modeler, from data import to model evaluation, providing a strong example of applied predictive analytics.
+This project demonstrates the end-to-end fraud detection process using SPSS Modeler, 
+
+from data import to model evaluation, providing a strong example of applied predictive analytics.
 
 
 
-Author
+# Author
 Vishwajit Vishwas
+
 Babu Banarasi Das University
+
 Supervisor: Mr. Ayushman Bhadauria
